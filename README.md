@@ -71,3 +71,5 @@ The front-end is served on http://localhost:3000/ and the back-end on http://loc
 
 
   This project was created using [Microsoft Web Template Studio](https://github.com/Microsoft/WebTemplateStudio).
+# link-navigator
+A web app that navigates to the URL that you take a picture of. Great for conferences!
